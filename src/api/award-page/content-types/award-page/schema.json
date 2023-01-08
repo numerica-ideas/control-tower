@@ -4,7 +4,8 @@
   "info": {
     "singularName": "award-page",
     "pluralName": "award-pages",
-    "displayName": "Award Page"
+    "displayName": "Award Page",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,7 +14,8 @@
   "attributes": {
     "content": {
       "type": "richtext",
-      "required": true
+      "required": true,
+      "default": "The Award page content goes here!"
     }
   }
 }

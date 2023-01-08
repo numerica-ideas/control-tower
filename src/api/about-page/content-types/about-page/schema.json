@@ -4,7 +4,8 @@
   "info": {
     "singularName": "about-page",
     "pluralName": "about-pages",
-    "displayName": "About Page"
+    "displayName": "About Page",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,7 +14,8 @@
   "attributes": {
     "content": {
       "type": "richtext",
-      "required": true
+      "required": true,
+      "default": "The About page content goes here!"
     }
   }
 }
