@@ -16,6 +16,11 @@
       "type": "richtext",
       "required": true,
       "default": "The Award page content goes here!"
+    },
+    "title": {
+      "type": "string",
+      "default": "Numies: NumericaIdeas’s Top Contributors Awards",
+      "required": true
     }
   }
 }

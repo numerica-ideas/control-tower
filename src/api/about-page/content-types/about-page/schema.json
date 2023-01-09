@@ -16,6 +16,11 @@
       "type": "richtext",
       "required": true,
       "default": "The About page content goes here!"
+    },
+    "title": {
+      "type": "string",
+      "default": "About NumericaIdeas and its Network",
+      "required": true
     }
   }
 }

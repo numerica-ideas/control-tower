@@ -22,6 +22,8 @@ npm run start
 yarn start
 ```
 
+Node **v16** is being used for this App.
+
 ### `build`
 
 Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
